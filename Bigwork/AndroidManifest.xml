@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+	package="mars.bigwork" android:versionCode="1" android:versionName="1.0">
+	<uses-sdk android:minSdkVersion="8" />
+
+
+	<uses-permission android:name="android.permission.INTERNET" />
+	<uses-permission android:name="com.android.launcher.permission.INSTALL_SHORTCUT" />
+
+	<application android:icon="@drawable/e" android:label="@string/app_name">
+		<activity android:name=".Activity01" android:label="@string/app_name">
+			<intent-filter>
+				<action android:name="android.intent.action.MAIN" />
+				<category android:name="android.intent.category.LAUNCHER" />
+			</intent-filter>
+		</activity>
+
+
+
+		<activity android:name=".About" android:label="@string/app_name">
+		</activity>
+
+		<activity android:name="mars.word.Word" android:label="@string/word" />
+
+		<activity android:name="mars.meiwen.index" android:label="@string/index" />
+		<activity android:name="mars.meiwen.group01" android:label="@string/group01" />
+		<activity android:name="mars.meiwen.group02" android:label="@string/group02" />
+		<activity android:name="mars.meiwen.group03" android:label="@string/group03" />
+		<activity android:name="mars.meiwen.group04" android:label="@string/group04" />
+		<activity android:name="mars.meiwen.txt011" android:label="@string/txt011" />
+		<activity android:name="mars.meiwen.txt012" android:label="@string/txt012" />
+		<activity android:name="mars.meiwen.txt013" android:label="@string/txt013" />
+		<activity android:name="mars.meiwen.txt021" android:label="@string/txt021" />
+		<activity android:name="mars.meiwen.txt022" android:label="@string/txt022" />
+		<activity android:name="mars.meiwen.txt023" android:label="@string/txt023" />
+		<activity android:name="mars.meiwen.txt031" android:label="@string/txt031" />
+		<activity android:name="mars.meiwen.txt032" android:label="@string/txt032" />
+		<activity android:name="mars.meiwen.txt033" android:label="@string/txt033" />
+		<activity android:name="mars.meiwen.txt041" android:label="@string/txt041" />
+		<activity android:name="mars.meiwen.txt042" android:label="@string/txt042" />
+		<activity android:name="mars.meiwen.txt043" android:label="@string/txt043" />
+
+
+		<activity android:name="mars.liju.xiu01" android:label="@string/app_name">
+		</activity>
+		<activity android:name="mars.liju.liebiao" android:label="@string/app_name">
+		</activity>
+		<activity android:name="mars.liju.testListViewAcitivity"
+			android:label="@string/app_name">
+		</activity>
+		<activity android:name="mars.liju.li02" android:label="@string/app_name">
+		</activity>
+		<activity android:name="mars.liju.li03" android:label="@string/app_name">
+		</activity>
+		<activity android:name="mars.liju.li04" android:label="@string/app_name">
+		</activity>
+		<activity android:name="mars.liju.li05" android:label="@string/app_name">
+		</activity>
+		<activity android:name="mars.liju.li06" android:label="@string/app_name">
+		</activity>
+		<activity android:name="mars.liju.li07" android:label="@string/app_name">
+		</activity>
+
+
+	</application>
+</manifest>

@@ -1,0 +1,993 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="hello">Hello World, Activity01!</string>
+	<string name="app_name">Working and Learning</string>
+
+	<string name="word">在线翻译</string>
+
+	<string name="index">美文诵读</string>
+	<string name="group01">人生哲理</string>
+	<string name="group02">情感阅读</string>
+	<string name="group03">智慧人生</string>
+	<string name="group04">休闲放松</string>
+	<string name="txt011">年轻时一定要知道的8件事</string>
+	<string name="txt012">记住这几句话 你将受益一生</string>
+	<string name="txt013">学会珍惜 懂得放弃 </string>
+	<string name="txt021">永远守护着自己的天使</string>
+	<string name="txt022">等我死了, 最亲爱的</string>
+	<string name="txt023">爱之歌 LOVE SONG </string>
+	<string name="txt031">青春无悔 别停下梦想的脚步</string>
+	<string name="txt032">记住这10句话 你将永远幸福快乐</string>
+	<string name="txt033">你不可不知的人生智慧</string>
+	<string name="txt041">十二星座分手时会怎么说? </string>
+	<string name="txt042">小广告 大文化 18条绝妙广告语</string>
+	<string name="txt043">一"网"情深的英文结婚短信祝福语 </string>
+
+
+	<string name="i01">
+Ann:\nAlison，What kind of pet do you want to get? \n
+Alison:\nHow about a goldfish? \n
+Ann:\nThey\'re too boring! How about a snake? Snakes are interesting. \n
+Alison:\nNo！Snakes are too scary！Let\'s get a nice pet like a cat. \n
+Ann:\nA cat？I don\'t like cats. Cats aren\'t friendly enough. \n
+Alison:\nWell,that hamster over there looks nice. He seems friendly, and he has short hair. \n
+Ann:\nYeah, he\'s perfect! \n
+Alison:\nLet\'s get him！ \n
+Ann:\n艾莉森，你想要怎样的宠物？ \n
+Alison:\n一条金鱼怎么样？ \n
+Ann:\n他们太无聊！一条蛇怎么样？蛇很有趣。 \n
+Alison:\n不!蛇太令人害怕。咱们找个好的宠物像猫一样。 \n
+Ann:\n一只猫？我不喜欢猫。猫不是足够友好。 \n
+Alison:\n好，那仓鼠看起来不错。他似乎很友好，并且他有短的毛发。 \n
+Ann:\n是的，他是很完美！ \n
+Alison:\n就要他！ \n
+	</string>
+	<string name="i02">
+		杨:\nWhy are you looking so sad? \n你看起来为什么那么沮丧？ \n
+		李:\nI fought with Paul again yesterday. We both mentioned divorce.\n
+		"昨天我跟Paul又 开战了。 我们都提到了离婚。\n"
+		"杨:\nFirst do you still love him?\n"
+		"首先你还爱他吗？\n"
+		"李:\nI guess so. But he has so many problems which are small but make me angry.\n"
+		"我想是的。但是他有很多小毛病，经常惹我生气。\n"
+		"杨:\nCome on, if you still love him, you shall find a better way to get along with him? \n"
+		"得了吧，如果你还爱他，你就应该找一个更好的相处之道。\n"
+		"李:\nA better way?\n"
+		"更好的相处？\n"
+		"杨:\nYes,	first when he is playing computer games, please dont go directly and turn off the computer unless your house is on fire. \n"
+		"是的，首先当他玩电脑游戏的时候，不要直接走过去关掉电脑，除非你们家着火了。\n"
+		"李:\nOh, hard to do like that,but will try. \n"
+		"哦，很难做到，但是可以试试。\n"
+		"杨:\nSecond you shall give him respect when staying with friends especially his.Man is sensitive about face\n"
+		"第二在朋友尤其是他的朋友面前给他面子。男人都爱面子。 \n"
+		" 李:\nWell,well….\n"
+		恩，恩。 \n
+		杨:\nThe most important thing is that dont force him to apologize. You shall only let him know he is wrong, that‘s all. \n
+		最重要的是不要强迫他认错。你只要让他知道自己做错了这就够了。\n</string>
+	<string name="i03">
+		"乘客A:\nExcuse me, is this seat taken? \n"
+		"对不起，这个座位有人坐吗？ \n"
+		"乘客B:\nNo, I don\'t think so. \n"
+		"我想应该没有人。 \n"
+		"乘客A:\nThanks,I am waiting for the train at 9 oclock to Shanghai.Where will you go?\n"
+		"谢谢，我在等9点到上海的火车，你去哪呢？ \n"
+		"乘客B:\nWhat a coincidence! we are the same train.\n"
+		"真是太巧了，我们同一列火车。 \n"
+		"乘客A:\nReally? What is your seat number? \n"
+		"真的吗？你座位几号？ \n"
+		"乘客B:\nNo.5 on the second row. And you?\n"
+		"第二排5号，你呢？ \n"
+		"乘客A:\nI am on the third row, No.10. \n"
+		"我第三排10号。 \n"
+		"乘客B:\nCould you please keep an eye on my luggage? I want to go to the washroom.\n"
+		"你能帮我照看下行李吗？我去下洗手间。 \n"
+		"乘客A:\nNo problem. \n"
+		"没问题。 \n"
+		"乘客B:\nThank you so much. \n"
+		"非常感谢。"</string>
+	<string name="i04">
+		Bob:\nAnn,do you know where our boss is? \n
+		安，你知道老板在哪吗？ \n
+		Ann:\nIm not really sure. What happened? \n
+		我不太清楚。怎么了？ \n
+		Bob:\nI need his signature. \n
+		我需要他的签名。 \n
+		Ann:\nYou can visit Lily, who is our bosss assistant,maybe she know. \n
+		你可以找老板的助理莉莉，或许她知道。 \n
+		Bob:\nThanks,but can you tell me where I can fine her? \n
+		谢谢，你能告诉我哪里可以找到她吗？\n
+		Ann:\nShe is in the personnel division,and here is her office telephone number.\n
+		她在人事部，这是她办公室电话。 \n
+		Bob:\nYou give me a big hand. \n
+		你帮了我大忙了。 \n
+		Ann:\nYou are welcome. \n
+		你太客气了。 \n
+		Bob:\nDo you mind having a coffee with me after work,I treat you. \n
+		介意下班后一起喝咖啡吗？我请客。 \n
+		"Ann:\nNo, I\'d love to. \n"
+		"不介意，我很乐意。 \n"
+</string>
+	<string name="i05">
+		服务员:\n
+		Excuse me,sir, can I take your order? \n
+		打扰了，您要点菜吗？ \n
+		客人:\n
+		No,thanks,I am waiting for a friend. \n
+		不，谢谢，我等一个朋友。 \n
+		服务员:\n
+		OK,do you like something to drink? \n
+		好的，那您要来点喝的吗？ \n
+		客人:\n
+		A cup of
+		coffee,please. \n
+		一杯咖啡，谢谢。 \n
+		服务员:\n
+		No problem. Sir, what kind of coffee
+		would you like? \n
+		没问题。先生，请问您喜欢喝哪种咖啡？ \n
+		客人:\n
+		Just the usual, but add
+		plenty of sugar. \n
+		一般的就好，但是要加足糖了。 \n
+		服务员:\n
+		We don\'t have “the usual”
+		here. \n
+		我们这没有“一般的咖啡”。 \n
+		客人:\n
+		I\'m not too bothered. What would you
+		recommend? \n
+		"我并不太介意。你有什么好的提议吗？ \n"
+		"服务员:\nEspresso, latte, mocha,cappuccino and so on- they are hot today \n"
+		"意大利浓咖啡，拿铁咖啡，摩卡咖啡，卡布奇诺咖啡，等等——现在都非常流行。 \n"
+		"客人:\nFine, I\'ll take the mocha. \n"
+		"好的，来一杯摩卡咖啡.\n\"</string>
+	<string name="i06">
+		Tom:\n
+		Mom,I am back. \n
+		妈，我回来啦。 \n
+		Mom:\n
+		Why are you all
+		wet,Tom? \n
+		汤姆，你怎么全身湿透了？ \n
+		Tom:\nDont worry,I am fine. \n
+		别担心，我没事。 \n
+		Mom:\n
+		Tell me what happened. \n
+		告诉我发生什么事了。 \n
+		Tom:\n
+		Some one dropped into the
+		lake,and I saved him.Thats the way it is. \n
+		有人掉湖里了，我救了他。就是这么回事。 \n
+		Mom:\n
+		My good son,go to have a bath first,and I go to prepare the
+		dinner. \n
+		我的好儿子。先去洗洗澡，我去准备晚餐。 \n
+		Tom:\nI want to eat the sauté fish with brown sauce. \n
+		我想吃红烧鱼。 \n
+		Mom:\n
+		OK, I phone to your father to buy a fish.
+		\n
+		好，我打电话让你爸买鱼回来。 \n
+		Tom:\n
+		Mom,I go back room first. \n
+		妈，我先回房了。 \n
+		Mom:\nAlright. \n
+		好的。\n </string>
+	<string name="i07">
+		女儿:\nDad, whats up? \n
+		爸爸，什么事？ \n
+		爸爸:\n
+		Sweetheart, I
+		would like to ask you to help me. \n
+		甜心，我想请你帮个忙。 \n
+		女儿:\n
+		Help what? \n
+		帮什么？ \n
+		爸爸:\n
+		A lot. But, all I have to do is learn English. \n
+		很多，但是，我所要做的就是学英语。 \n
+		女儿:\n
+		So you want me to teach you English? \n
+		所以你想要我教你英语？ \n
+		爸爸:\n
+		Yes, you are right. \n
+		是的，没错。 \n
+		女儿:\n
+		Have you learned
+		English? How much do you know? \n
+		你有学过英语吗？你懂多少？ \n
+		爸爸:\n
+		I know nothing. \n
+		我什么都不知道。 \n
+		女儿:\n
+		How about the letter? \n
+		那字母呢？ \n
+		爸爸:\n
+		I know this. There
+		are 26 letters. \n
+		这个我知道，有26个字母。\n </string>
+	<string name="i08">
+		Sam:\nHey, body, where do you want to eat? \n
+		哥们，想去哪吃？ \n
+		Tom:\nMmm, I have no idea. What about you? \n
+		嗯，不知道，你呢？ \n
+		Sam:\nI heard that there will be a restaurant selling sushi next to our
+		company. \n
+		我听说咱们公司隔壁要开一个寿司店了。 \n
+		Tom:\nDo you love sushi? Oh, please, I am allergic to seafood. \n
+		你喜欢吃寿司？哦，别，我对海鲜过敏。 \n
+		Sam:\nWhen? I remembered you like the seafood before. \n
+		什么时候？我记得你以前喜欢吃海鲜的啊？ \n
+		Tom:\nI like to eat cooked seafood, not fresh. Each time when I eat sushi, I
+		would feel
+		terrible. \n
+		我喜欢吃加工过的海鲜，不是生的。每次一吃寿司，我就感觉不舒服。 \n
+		Sam:\n
+		So it is. My mum is
+		Japanese, so I feel good when I eat it. \n
+		原来是这样。我妈妈是日本人，所以我吃着觉得不错。\n
+		Tom:\n
+		Is there any relevance? \n
+		这有关系吗？ \n
+		Sam:\n
+		Yes, scientists have found
+		that there exsisting a kind of enzyme in
+		Japanese\' stomach.Which can
+		help them to digest sushi. \n
+		是的，科学家发现日本人的胃里有一种酶。这可以帮助他们消化寿司。 \n
+		Tom:\n
+		That\'s fantastic! It\'s must be a miracle in biology.\n
+		好神奇呀！这一定是生物界的奇迹。 \n
+</string>
+	<string name="i09">
+		LUKE:\nHey,dudes!I think I\'m lost!Could you tell me
+		how to get to Trafalgar Square? \n
+		嗨！小伙子们！我想我迷路了！你们可以告诉我怎样才能到达特拉法尔加广场吗？ \n
+		KATE:\n
+		Sure!Go straight ahead as
+		far as The Strand,turn left and then \n
+		当然，向前直走直到strand(注：通往达特拉法尔广场的街道的名称），向左转，然后…… \n
+		RAJ:\n
+		No!You mustn\'t turn
+		left!You must turn right into The Strand .Go straight
+		on and Trafalgar
+		Square is at end of the road.You can\'t miss it! \n
+		不！你不能向左转！你应该想右转进入到strand中（注：进入到其街道内）。向前直行，达特拉法尔广场就在路底。你不会走错的 \n
+		LUKE:\n
+		Ok!Sound easy.Thanks! \n
+		好的！听起来好像很简单。谢了！ \n
+</string>
+	<string name="i10">
+		A:\nHi，Kate！How are you today? \n
+		你好，凯特！你今天怎么样.? \n
+		B:\n
+		I\'m fine. What about you? \n
+		我很好.你呢.? \n
+		A:\n
+		Not very well. \n
+		不是很好。 \n
+		B:\n
+		What\'s wrong? \n
+		你怎么了.? \n
+		A:\n
+		I have a sore throat. \n
+		我喉咙痛。 \n
+		B:\n
+		Oh，that\'s too bad.You should take some medicine. \n
+		哦，这太糟糕了。你应该吃一些药。
+		\n
+		A:\n
+		Yes，I think so. \n
+		对，我也是这么想的。 \n
+		B:\n
+		I hope you feel better soon. \n
+		我希望你尽快好起来。 \n
+</string>
+	<string name="i11">
+		Passenger:\nWhat\'s the next train from Beijing to
+		Tianjin? \n
+		去天津，最近的一趟车是哪辆? \n
+		Ticket seller:\n
+		T548 at 15:\n01.
+		T548，15点01分。
+		\n
+		Passenger:\n
+		What time does it get there? \n
+		什么时候到? \n
+		Ticket seller:\n
+		It
+		gets there around 16:\n26. \n
+		大约4点26分到。 \n
+		Passenger:\n
+		What\'s the fare? \n
+		多少钱? \n
+		Ticket seller:\n
+		Hard seat is RMB 30.00. \n
+		硬座30元。 \n</string>
+	<string name="i12">
+		A:\nDo you have time tomorrow？ \n
+		明天有空吧？ \n
+		B:\n
+		Yes, I
+		do. \n
+		有啊。 \n
+		A:\n
+		How about having lunch with me？ \n
+		一起吃顿中饭怎样？ \n
+		B:\n
+		That
+		will be fine with me.It\'s tomorrow at twelve o\'clock, right？ \n
+		没问题。是明天12点吧？ \n
+		A:\n
+		Yes, that\'s right. \n
+		是的，没错。 \n
+		B:\n
+		After lunch . I\'ll
+		get the check. \n
+		午饭后。我来付帐。 \n
+		A:\n
+		No, let me pay this time. \n
+		不，这次由我付。 \n
+		B:\n
+		No, I insist. \n
+		不，还是我来。 \n
+		A:\n
+		I think you got it last time. \n
+		我记得上回也是你请的。 \n
+		B:\n
+		It\'s my pleasure. \n
+		我请得心里高兴。 \n
+		A:\n
+		That\'s very nice of
+		you. \n
+		既然这样，那就多谢了。 \n
+</string>
+	<string name="i13">
+		Zhu:\nThis time I am really doomed. \n
+		这次我真的完蛋了。 \n
+		Li:\n
+		What happened? \n
+		发生什么事了？ \n
+		Zhu:\n
+		I forget to bring my umbrella this
+		morning, but it is raining now. \n
+		我今天早上忘了带伞，现在下雨了。 \n
+		Li:\n
+		Where are you?
+		\n
+		你现在在哪里？ \n
+		Zhu:\n
+		I\'m in my office now. \n
+		我现在在办公室。 \n
+		Li:\n
+		Don\t worry.
+		Maybe it will stop soon. \n
+		别担心，可能一会就会停了。 \n
+		Zhu:\n
+		But I will get off work
+		soon too. I am really doomed! \n
+		但我马上就下班了。我真的完蛋了！ \n
+</string>
+	<string name="i14">
+		Tom:\nIt is my promotion,I would like to invite you
+		come to eat to celebrate.
+		\n
+		今天是我升职了，我想请你过来吃一顿饭庆祝一下。 \n
+		Maly:\n
+		Congratulations. \n
+		恭喜你。 \n
+		Maly:\n
+		What time , where to meet? \n
+		几点钟，在哪里见面？ \n
+		Tom:\n
+		8 o\'clock tonight, at my house. \n
+		今晚8点，在我家 \n
+	</string>
+	<string name="i15">
+		Lucy:\nHi. What\'s wrong with you ?Your face are very
+		pale. \n
+		你好。你怎么了，脸色这么白。 \n
+		Nancy:\n
+		You know the Australian Open is going
+		on and I am busy with it .So... \n
+		你知道现在澳网正在进行，我忙着看比赛所以。。。\n
+		Lucy:\n
+		Oh.I
+		forgeted it .You are a tennis fan. Who interests you？ \n
+		我忘了，你是个网球迷，你对谁最感兴趣？ \n
+		Nancy:\n
+		Certainly Goger Federer. He is my idol.And
+		who is your idol? \n
+		当然是是罗杰费德勒。他是我的偶像。你的偶像是谁呢？ \n
+		Lucy:\n
+		Kobe Bryant. I
+		like NBA best .He is the best player. \n
+		科比布莱恩特。我最喜欢的就是NBA。他是最出色的球员。 \n
+		Nancy:\n
+		Yeah。So he is. I also like him.He is a player of full of wosdom.
+		\n
+		是，确实如此。我也喜欢他。他充满了智慧。 \n
+		Lucy:\n
+		In China，he owns the most fans .Roger is
+		also excellent \n
+		再中国，他有着最多的粉丝。罗杰也非常出色。 \n
+		Nancy:\n
+		He have owned the most
+		Grand Slams . \n
+		他获得了最多的大满贯 \n
+		Lucy:\n
+		He had twin doughters a few months
+		ago and became a father. \n
+		几个月前他有了一对双胞胎女儿，做了父亲。 v
+		Nancy:\n
+		Yes. He lives
+		happily so I\'m very happy. \n
+		是啊。他生活的十分幸福所以我也很高兴。 \n
+		Lucy:\n
+		Good luck for
+		Roger . And take care of yourself. \n
+		祝他好运吧。注意身体。 \n
+		Nancy:\n
+		Thank you. \n
+		谢谢。\n </string>
+	<string name="i16">
+		Jackie:\nHi! Lili, do you know Messi? \n
+		嗨，莉莉，你知道梅西是谁吗？ \n
+		Lili:\n
+		Yes, of course. He is a marvelous football
+		player, from Barcelona club. \n
+		我当然知道了！他是一位了不起的足球运动员，来自巴塞罗那俱乐部。 \n
+		Jackie:\n
+		But you know, he has been awarded the FIFA world player
+		recently! He is
+		just 22 yesrs old this year. \n
+		你知道吗？他刚刚获得世界足球先生的称号。他今年只有22岁啊。 \n
+		Lili:\n
+		Oh my god! That is very cool. I
+		admire him increasingly. \n
+		哇，太厉害了！我越来越佩服他了！ \n
+</string>
+	<string name="i17">
+		小杨:\nWhat a pity! I had to go to a wedding yesterday
+		so I havent watched the
+		final of 110m hurdles. \n
+		太遗憾了！昨天我不得不去参加一个婚礼所以我没能看到110米跨栏比赛的决赛。 \n
+		小李:\n
+		Well, flying man Liu Xiang
+		won undoubtedly. \n
+		飞人刘翔毫无疑问的赢了。 \n
+		小杨:\n
+		Wow, if I am correct, it is the
+		third gold medal he won in the national
+		games. \n
+		哇，如果我没有记错的话，这是他在全运会上赢得的第三块金牌。 \n
+		小李:\n
+		Yes, he won the grand slam. \n
+		是的，他实现了大满贯。 \n
+		小杨:\n
+		Did he slow down after clearing all hurdles as what
+		he did in heat? \n
+		他跟预赛中一样在跨完所有栏后减速了吗？ \n
+		小李:\n
+		No，his competitors like
+		Jiwei and Shi dongpeng gave him some pressure so in
+		order to assure his
+		first place he could not slow down obviously.\n
+		没有，他的竞争者纪伟，史东鹏等给了他一些压力，所以为了保证自己的第一名位置，他不能明显的减速。 \n
+		小杨:\n
+		Did he perform
+		his best status? \n
+		他表现了他的最佳状态吗？ \n
+		小李:\n
+		I think not, he said he just took
+		a conservative policy in the national
+		games. The game was more like a
+		practice to him.
+		\n我认为不是，他说他在全运会中采取了保守的策略。这场比赛对他而言更像场训练。 \n
+		小杨:\n
+		He never
+		let people down. We all know the return of the king! \n
+		他从不让我们失望。我们都知道王者归来了！ \n
+		小李:\n
+		Lets wait and see his better and better
+		performance！\n
+		让我们拭目以待他更加精彩的表现! \n
+</string>
+	<string name="i18">
+		大嘴:\nWho is the pride in sports of our country ? \n
+		你觉得谁是中国体坛的骄傲？ \n
+		脸盆:\n
+		Wanjunxia-the Oriental reindeer. \n
+		东方神鹿王军霞。 \n
+		大嘴:\n
+		Flying Liuxiang,and NBA star Yaoming. \n
+		飞人刘翔,还有NBA明星姚明。 \n
+		脸盆:\n
+		The
+		Chinese Table Tennis Team,they are the most powerful team. \n
+		中国乒乓球队，他们是最棒的球队。 \n
+		大嘴:\n
+		And those people who devoted themselves to
+		sports .\n
+		还有许许多多为体育事业奉献的人。 \n
+		脸盆:\n
+		Yeah ,they are the prides of China. \n
+		是啊，他们都是中国的骄傲。 \n
+</string>
+	<string name="i19">
+		大嘴:\nWhat is the most wonderful moment of sports in
+		your opinion ? \n
+		你觉得中国体育最经典的瞬间是什么？ \n
+		脸盆:\n
+		The moment of lighting the
+		Beijing Olympic Flame. \n
+		当属北京奥运会圣火点燃的瞬间。 \n
+		大嘴:\n
+		The Beijing Olympic
+		Flame reached the top of Mount Qomolangma was also
+		moving. \n
+		我觉得奥运圣火登上珠峰之巅也很感动。 \n
+		脸盆:\n
+		And Liuxiang won a gold medal in the Athens
+		2004 Olympic Games. \n
+		还有刘翔雅典奥运会勇夺金牌那一刻。 \n
+		大嘴:\n
+		There are so many
+		excellent moments! \n
+		经典的瞬间太多了！ \n
+		脸盆:\n
+		And all the eternities. \n
+		都是永恒的瞬间。\n
+</string>
+	<string name="i20">
+		大嘴:\nThe most influential sports-men were chosen at
+		the awards ceremony of the
+		60th anniversary for sports in China.
+		\n中国体育60年颁奖典礼评选出了最具影响力的体育人。 \n
+		脸盆:\n
+		My idol Yaoming was elected too. \n
+		我的偶像姚明也当选了。 \n
+		大嘴:\n
+		He is the most influential player in the world sports
+		. \n
+		姚明是近年来世界体坛最具影响力的运动员。 \n
+		脸盆:\n
+		Yeah ,he lets us know more about NBA. \n
+		是啊，他让国人了解了NBA。 \n
+		大嘴:\n
+		Yaoming also throws himself into charity work and
+		public service besides
+		basketball and becomes the most famous sports
+		celebrity .
+		\n除了篮球事业，姚明还投身慈善和公益事业，成为最著名的体育明星。 \n
+		脸盆:\n
+		Yeah ,he is well
+		deserved . \n
+		是的，他的确是众望所归啊。\n
+</string>
+	<string name="i21">
+		Tom:\nDid you watch the US Open?How was Li Na\'s
+		play? \n
+		你看美网了吗？李娜表现怎么样？ \n
+		Jerry:\n
+		Yes. She played well and secures first
+		US Open quarterfinal appearance
+		with a victory over an Italian player.
+		\n
+		看了。她表现很好，击败了一名意大利选手，首次闯入美网8强。\n
+</string>
+	<string name="i22">
+		戴乃迭:\nMother, I love him and decide to marry him. \n
+		母亲，我爱他，我决定嫁给他。\n
+		母亲:\n
+		Why are you so stubborn? He is a Chinese, so there
+		will be culture
+		conflict between you. \n
+		你为什么这么固执，他是一个中国人，你们之间会有文化代沟的。 v
+		戴乃迭:\n
+		It will be no problem between us, and I hope I can receive the
+		bless
+		from you and father. \n
+		我们之间不存在问题，我希望能够得到你和父亲的祝福。 \n
+		母亲:\n
+		Don\'t be
+		silly. There won\'t be happiness between you. And if you are
+		married,
+		you are doomed to be incarcerated and your son will commit
+		suicide.
+		\n别傻了，如果你们结婚，你将有牢狱之灾而你的儿子也会自杀。 \n
+</string>
+	<string name="i23">
+		Mother:\nHave you finished your homework ,my son? \n
+		作业做完了吗，儿子？ \n
+		Son:\n
+		No,Mummy.I\'m so drowsy that I can\'t write any
+		words. \n
+		还没呢，妈。我太累了，一个字也写不下去。 \n
+		Mother:\n
+		It is a bad habit to not finish
+		your homework on time. \n
+		不按时完成作业是个坏习惯。 \n
+		Son:\n
+		I see ,Mummy.I\'m going
+		to wash my face and wake myself up. \n
+		知道了，妈。我去洗把脸，让自己清醒一些。 \n
+</string>
+	<string name="i24">
+		Son:\nI\'m home ,Mummy. \n
+		妈，我回来了。 \n
+		Mother:\n
+		Welcome to
+		come back,dear.But why do you get home so late? \n
+		欢迎回来，宝贝儿。可你为什么回来得这么晚？ \n
+		Son:\n
+		The teacher did not stop teaching until
+		the headmaster came in . \n
+		老师拖课了。 \n
+		Mother:\n
+		Oh, I see. \n
+		原来如此。\n
+	</string>
+	<string name="i25">
+		wife:\nOur daughter,Poler, is very lovely,isn\'t it?
+		\n
+		我们的女儿非常可爱，对吗？ \n
+		husband:\n
+		Yeah,she always devotes herself to singing
+		and dancing alone in accordance
+		with the vedio \n
+		嗯，她经常独自一人跟着CD唱歌跳舞 \n
+	</string>
+	<string name="i26">
+		Mrs.H:\nPeter,your trousers are too dirty to wear! \n
+		彼得，你的裤子太脏啦！ \n
+		Peter:\n
+		Oh,Mum,would you like to wash them for me? \n
+		哦，妈妈，您能帮我洗一下吗？ \n
+		Mrs.H:\n
+		No!You should Learn to do that by yourself! \n
+		不，你应该学会自己做。 \n
+		Peter:\n
+		All right. \n
+		好吧。 \n
+</string>
+	<string name="i27">
+		Mother:\nson,the next time ,help me cook,OK? \n
+		儿子，接下来的时间帮我做饭好不好啊？ \n
+		Son:\n
+		Oh,mom,let me have a break,i\'m exhausted !
+		\n
+		哦，妈妈，让我休息一下吧，我都快累死了！\n
+</string>
+	<string name="i28">
+		dad:\nMy children ,can you help me move the things?
+		\n
+		我的孩子，能帮我搬点东西吗 \n
+		mom:\n
+		Come on! Write your homework quickly! You have
+		to review the subjects! \n
+		快！快点写作业！你不得不把所有课程都复习一遍！\n
+</string>
+	<string name="i29">
+		女友:\nOh,fancy meeting you here \n
+		噢，真没想到在这遇到你 \n
+		男友:\n
+		Oh, for you it is good or bad \n
+		哦，对于你来说是好是坏呢 \n
+</string>
+	<string name="i30">
+		Ken:\nSorry teacher I\'m late. \n
+		对不起老师我迟到了 \n
+		Mr.Lane:\n
+		Ok,coming \n
+		你先进来 \n
+</string>
+	<string name="i31">
+		JACK:\nHow do you feel? \n
+		感觉怎么样? \n
+		JOHN:\n
+		I feel like a
+		new man. \n
+		我感觉我换了个人. \n
+</string>
+	<string name="i32">
+		Alex:\nSorry， i should just quit. \n
+		抱歉，也许我该放弃了 \n
+		Tony:\n
+		You are too concerned with what was and what will be \n
+		你只是太在乎过去和将来了 \n
+</string>
+	<string name="i33">
+		monce:\nOh,You look very pretty！ \n
+		你看起来很漂亮！ \n
+		nacy:\n
+		Really? \n
+		真的？ \n
+		monce:\n
+		I really think so! \n
+		我真的这样想的！\n
+</string>
+	<string name="i34">
+		迎新师兄:\nNice to meet you !What can I do for you? \n
+		见到你很高兴！能为你做些什么吗？ \n
+		新生:\n
+		Nice to meet you too,but where is the reception
+		desk? \n
+		见到你也很高兴，请问接待处在哪里呢？ \n
+		迎新师兄:\n
+		I will lead you there. \n
+		我带你去。 \n
+		新生:\n
+		Thank you. \n
+		谢谢。 \n
+		迎新师兄:\n
+		Let me help you with your luggage. \n
+		我来帮你提行李吧。 \n
+		新生:\n
+		All right. \n
+		好的。\n
+</string>
+	<string name="i35">
+		Mr Li:\nGood morning,Mr Smith. \n
+		早上好，史密斯先生。 \n
+		Mr
+		Smith:\n
+		Hello, Mr Li. It\'s good to see you. How are you doing? \n
+		你好，李先生。见到你太好了。你好吗？ \n
+		Mr Li:\n
+		Just fine. thanks. And you? \n
+		还好，谢谢。你呢？ \n
+		Mr Smith:\n
+		I\'m fine,thank you. \n
+		我一切都好，谢谢。 \n
+		Mr Li:\n
+		That\'s good . See
+		you later. \n
+		那好，回头见。 \n
+		Mr Smith:\n
+		All right. Bye now. \n
+		好，再见。 \n
+	</string>
+	<string name="i36">
+		A:\n:\nHave you been to China before \n
+		你以前去过中国吗？ \n
+		B:\n:\n
+		I have never been there。How about you? \n
+		我从来没有你去过。你呢？ \n
+		A:\n:\n
+		I have been
+		to China many times. \n
+		我去过很多次。 \n
+		B:\n:\n
+		Could you tell me something about
+		your traveling experiences in China? \n
+		你能告诉我一些关于你在中国旅行的经历吗？ \n
+		A:\n:\n
+		There are lots of things to tell. Maybe we can find a time and have a
+		detailed discussion. \n
+		我有太多的东西要告诉你。没准我们可以找个时间细谈。 \n
+		B:\n:\n
+		Okay. No
+		problem. \n
+		好的。没问题。 \n
+</string>
+	<string name="i37">
+		汤姆:\nCan you help me out? I\'m trying to find a post
+		office. \n
+		您能帮我吗?我想找一个邮局. \n
+		凯西:\n
+		Go three blocks and make a right. It\'s
+		right there. \n
+		穿过三条街向右转.就到了. \n
+		汤姆:\n
+		Should I take the bus? \n
+		需要做公交车吗? \n
+		凯西:\n
+		No. It\'ll only take about five minutes to walk. \n
+		不需要.走路只要五分钟. \n
+		汤姆:\n
+		Thank you very much. \n
+		谢谢. \n
+		凯西:\n
+		Any time. \n
+		不客气. \n
+</string>
+	<string name="i38">
+		汤姆:\nExcuse me. Could you please tell me how to get
+		to the station? \n
+		打扰一下.您能告诉我怎么样去车站吗? \n
+		凯西:\n
+		Turn left at the first
+		light. You can\'t miss it. \n
+		在第一个红绿灯向左转.你不会错过的. \n
+		汤姆:\n
+		Will it take me
+		long to get there? \n
+		需要很长时间吗? \n
+		凯西:\n
+		No. It\'s not far at all. \n
+		不.一点也不远. \n
+		汤姆:\n
+		Thank you. \n
+		谢谢. \n
+		凯西:\n
+		Don\'t mention it. \n
+		不客气. \n
+	</string>
+	<string name="i39">
+		律师:\nYou can appeal if you\'re not satisfied with the
+		sentence. \n
+		你如果对判决不满的话.可以提起上诉. \n
+		汤姆:\n
+		Where do I appeal? \n
+		那我向哪儿上诉呢? \n
+		律师:\n
+		A higher level court. \n
+		向上一级的法院. \n
+		汤姆:\n
+		What the chance of winning
+		the case if I appeal? \n
+		如果上诉.打赢官司的可能性有多大? \n
+		律师:\n
+		I\'m not going to lie
+		to you. Not very big. \n
+		据实相告.不太大. \n
+</string>
+	<string name="i40">
+		迈克:\nHello, is that the police? \n
+		喂.是警察局吗? \n
+		罗斯:\n
+		Police here. Can I help you? \n
+		这里是警察局.有什么事吗? \n
+		迈克:\n
+		I want to report a
+		robbery in my room. The robber has taken my gold
+		necklace and 50,000
+		dollars. \n
+		我要报警.我家被抢劫了.强盗抢走了我的金项链和5万元. \n
+		罗斯:\n
+		Right. Can I have your
+		name and address, please? \n
+		好.请告诉我你的名字和住址. \n
+		迈克:\n
+		My name is Mike and my
+		address is 80 Green Street. \n
+		我叫迈克.住在格林大街80号. \n
+		罗斯:\n
+		Thank you very
+		much. The police will be at your house in about 20 minutes.
+		\n
+		谢谢.警察20分钟后到. \n
+</string>
+	<string name="i41">
+		汤姆:\nYes. I have heard the Great Wall is very
+		beautiful. Can you help me join
+		tour? \n
+		听说长城很美丽.你能帮我入团吗? \n
+		苏珊:\n
+		Yes, of
+		course. \n
+		当然可以. \n
+		汤姆:\n
+		If there are some tours to go to the Great Wall.
+		\n
+		请问是否有到长城的旅游团呢? \n
+		苏珊:\n
+		There are several tours, let me introduce one to
+		you! \n
+		到长城游好几个旅游团.我给您介绍一个吧. \n
+		汤姆:\n
+		OK, thank you! \n
+		好的.谢谢! \n
+</string>
+	<string name="i42">
+		艾丽丝:\nExcuse me, two tickets please. 
+		\n你好.买两张票. 
+		\n售票员:
+		\nAdmission-only or all-inclusive? 
+		\n要门票还是通票? 
+		\n艾丽丝:
+		\nWhat does
+		\n"all-inclusive" entail? 
+		\n什么是通票? 
+		\n售票员:
+		\nIf you buy an all-inclusive ticket, you can visit whatever Scenic Spots you like inside the park.
+		\n如果你买了通票.可以参观所有的景点. 
+		\n艾丽丝:
+		\nOK, I\'ll take 2 all-inclusive tickets. 
+		\n好的.我要两张通票. \n
+</string>
+	<string name="i43">
+		JACK:\nHow was your english study? 
+		\n英语学的怎么样? 
+		\nJOHN:\nTerrific ,I really made a lot of progress ,it\'s amazing 
+		\n棒极了，令人惊讶，我取得巨大进步。
+</string>
+	<string name="i44">
+		Man:\nDear God! I pray to You for helping me out. 
+		\n伟大的上帝，我向你祈祷，请帮帮我！ 
+		\nGod:
+		\nLeave me alone! 
+		\n让我静一会儿！
+</string>
+	<string name="i45">
+		\n顾客:\nI want three. 
+		\n我想要三个。 
+		\n店员:
+		\nNo problem. If you have a customer service question， please contact me.
+		\n没问题。如果您有客户服务相关的问题，请您与我联系。 
+		\n顾客:
+		\nThank you. 
+		\n谢谢。 \n
+</string>
+	<string name="i46">
+		\n店员:\nWe have English magazines.
+		\n我们有英文杂志。 
+		\n顾客:
+		\nDo you have China Today? 
+		\n有今日中国吗？ 
+		\n店员:
+		\nSorry. It is sold out. 
+		\n对不起。（今日中国）卖完了。 \n
+</string>
+	<string name="i47">
+		\n顾客:\nI want to buy some DVDs. 
+		\n我想要买一些DVD. 
+		\n店员:
+		\nOK. What category of DVDs do you enjoy? 
+		\n好的。您喜欢哪一类的DVD？ 
+		\n顾客:
+		\nAction and adventure. 
+		\n动作冒险类的。 
+		\n店员:
+		\nThey are on the third shelf. 
+		\n在第三个架子上。 
+		\n顾客:
+		\nThank you. 
+		\n谢谢你。 
+		\n店员:
+		\nYou are welcome. 
+		\n不用谢。 
+</string>
+	<string name="i48">
+		Teacher:\nHey, Tom, where are you going?
+		\n嘿，汤姆，你要去哪里？
+		\nTom:
+		\nI’m going to, to….
+		\n我要去，去…… 
+		\nTeacher:
+		\nTo where? I remember it’s time for you to clean the floor. 
+		\n去哪里？我记得你现在应该是要去打扫地板的啊。 
+		\nTom:
+		\nAh, I’m going to the hospital. My mother is ill. 
+		\n啊，我正要去医院，我妈妈生病了。 
+		\nTeacher:
+		\nCome on, Tom. I just met your mother, and she looked very well. 
+		\n算了吧，汤姆，我刚刚碰到你妈妈了，而且她看起来很好。
+		\nTom:
+		\nSorry, Miss Zhang I just forget to do my work. 
+		\n对不起，张老师，我只是忘记要做工作了。
+		\nTeacher:
+		\nDon\'t do that again. 
+		\n下次别这样做了。
+</string>
+	<string name="i49">
+		Ann:\nMr. Smith, I need to talk to you. 
+		\n史密斯老师，我需要和你谈谈。 
+		\nMr. Smith:
+		\nOK. What do you want to talk? 
+		\n好的，你想和我谈什么呢？ 
+		\nAnn:
+		\nEm..It’s about Jane. She is in a trouble. 
+		\n恩，是关于简的，她有麻烦。 
+		\nMr. Smith:
+		\nWhat’s wrong with her? 
+		\n她怎么了？ 
+		\nAnn:
+		\nHer parents are going to divorce, but she doesn’t like such a state. She said she wanted to leave home. I don’t know how to persuade her not to do that. 
+		\n她父母准备离婚，但是她不喜欢这样的状况，她说她想离家出走。我不知道怎么说服她不要那样做。 
+		\nMr. Smith:
+		\nIt’s really a problem. But don’t worry. I will solve it. 
+		\n这真的是个问题，但是别担心，我会处理的。\n
+</string>
+</resources>
